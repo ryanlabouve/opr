@@ -1,0 +1,19 @@
+{
+  "name": "opr",
+  "version": "0.0.1",
+  "description": "Open a pull request in your browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "todo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanlabouve/opr.git"
+  },
+  "author": "ryanlabouve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanlabouve/opr/issues"
+  },
+  "homepage": "https://github.com/ryanlabouve/opr#readme"
+}
